@@ -1,2 +1,2 @@
-# google-play-analysis
-This is my google-play-analysis project
+# Google-Play-analysis
+This is a google play analysis project
